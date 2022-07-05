@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="c" width="40" height="40"/> </a>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=certyfreak" alt="FahimFBA" />
-![certyfreak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@155ca31c-b4fa-40c2-9e95-8ee14b2b8bb7&layout=compact&theme=synthwave&v=2)
+![certyfreak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=certyfreak&layout=compact&theme=synthwave&v=2)
 
 
 [![-----------------------------------------------------](
