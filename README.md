@@ -50,12 +50,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <br>
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/certyfreak?tab=repositories)
-<b>Interests<br/>
-
-<a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="c" width="40" height="40"/> </a>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=certyfreak" alt="FahimFBA" />
 
