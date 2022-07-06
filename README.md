@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/certyfreak?tab=repositories)
-<b>Welcome !! </b><br/>
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/certyfreak?tab=repositories)<b>Welcome !! </b><br/>
 
 Some things about me :<br/>
 :one: Full stack developer<br/>
@@ -14,7 +13,7 @@ Some things about me :<br/>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/certyfreak?tab=repositories)
-<b> Tools <br/>
+<b>Tools</b> <br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
